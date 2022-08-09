@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on code projects for begginers, and work oportunities for júnior developer.
 - 📫 <strong>How to reach me: </strong> ⬇️
 
-
 <div> 
   <a href="https://www.linkedin.com/in/la%C3%ADs-borges-da-silva-1353a8197/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -27,7 +26,10 @@
   <img src="https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" />
-  
+
+
+![Snake animation](https://github.com/vih-cisne/vih-cisne/blob/output/github-contribution-grid-snake.svg)
+
  <div align="center">
   <h2> ⚙️Analytics </h2>
 
