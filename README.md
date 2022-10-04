@@ -1,4 +1,6 @@
 <h1>Hello world</h1>
+
+<img src/>
   
 - ✨ My name is Lais Borges and i'm a <strong>Front-End developer</strong>.
 - 🎯 Soft-skills: <strong>I am proactive, communicative, curious and i love learn new things</strong>.
