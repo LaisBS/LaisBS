@@ -43,14 +43,14 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2
 
  <div align="center">
-  <h2> ⚙️Analytics </h2>
+  <h2> ⚙️Analise do perfil </h2>
 
   <a href="https://github.com/LaisBS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisBS&theme=radical&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisBS&theme=radical&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
   </a>
+  
+  ![Snake animation](https://github.com/LaisBS/LaisBS/blob/output/github-contribution-grid-snake.svg)
 </div>
