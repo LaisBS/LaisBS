@@ -12,6 +12,10 @@
   <a href="https://www.linkedin.com/in/la%C3%ADs-borges-da-silva-1353a8197/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+  <a href="https://kenzie-portfolio-lais-bs.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a> 
+	
 	
 
 </div>
