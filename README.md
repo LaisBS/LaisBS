@@ -1,4 +1,4 @@
-<h1>Olá mundo, eu sou a Lais Borges da Silva <img width="280px" align="right" alt="Hi" src="https://res.cloudinary.com/dqqw3fvn2/image/upload/v1664892503/picasion.com_721fbcad42a31aa819febcd9ee68a194_r51d67.gif"/></h1>
+<h1>Olá mundo, eu sou a Lais Borges da Silva <img width="200px" align="right" alt="Hi" src="https://res.cloudinary.com/dqqw3fvn2/image/upload/v1664892503/picasion.com_721fbcad42a31aa819febcd9ee68a194_r51d67.gif"/></h1>
 
 <div>	
 
