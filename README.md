@@ -1,12 +1,12 @@
 <h1>Hello world</h1>
-
-<img src/>
   
 - ✨ My name is Lais Borges and i'm a <strong>Front-End developer</strong>.
 - 🎯 Soft-skills: <strong>I am proactive, communicative, curious and i love learn new things</strong>.
 - 🌱 I’m currently learning front-end development at <strong>Kenzie Academy Brasil</strong>.
 - 💞️ I’m looking to collaborate on code projects for begginers, and work oportunities for júnior developer.
 - 📫 <strong>How to reach me: </strong> ⬇️
+
+<img src="https://res.cloudinary.com/dqqw3fvn2/image/upload/v1664892503/picasion.com_721fbcad42a31aa819febcd9ee68a194_r51d67.gif"/>
 
 <div> 
   <a href="https://www.linkedin.com/in/la%C3%ADs-borges-da-silva-1353a8197/" target="_blank">
