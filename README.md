@@ -28,7 +28,8 @@
   <img src="https://img.shields.io/badge/-insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" />
 
 
-![Snake animation](https://github.com/vih-cisne/vih-cisne/blob/output/github-contribution-grid-snake.svg)
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.0.0-rc.2
 
  <div align="center">
   <h2> ⚙️Analytics </h2>
