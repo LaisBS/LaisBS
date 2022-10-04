@@ -1,4 +1,4 @@
-<h1>Olá mundo, eu sou a Lais Borges da Silva <img width="200px" align="right" alt="Hi" border-radius="30px" src="https://res.cloudinary.com/dqqw3fvn2/image/upload/v1664892503/picasion.com_721fbcad42a31aa819febcd9ee68a194_r51d67.gif"/></h1>
+<h1>Olá mundo, eu sou a Lais Borges da Silva <img width="200px" align="right" alt="Hi" src="https://res.cloudinary.com/dqqw3fvn2/image/upload/v1664892503/picasion.com_721fbcad42a31aa819febcd9ee68a194_r51d67.gif"/></h1>
 
 <div>	
 
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 
- <div align="center">
+ <div>
   <h2> ⚙️Análise do perfil </h2>
 
   <a href="https://github.com/LaisBS">
