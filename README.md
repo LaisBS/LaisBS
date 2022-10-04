@@ -1,18 +1,19 @@
-<h1>Hello world</h1>
-  
-- ✨ My name is Lais Borges and i'm a <strong>Front-End developer</strong>.
-- 🎯 Soft-skills: <strong>I am proactive, communicative, curious and i love learn new things</strong>.
-- 🌱 I’m currently learning front-end development at <strong>Kenzie Academy Brasil</strong>.
-- 💞️ I’m looking to collaborate on code projects for begginers, and work oportunities for júnior developer.
-- 📫 <strong>How to reach me: </strong> ⬇️
+<h1>Olá mundo, eu sou a Lais Borges da Silva <img width="280px" align="right" alt="Hi" src="https://res.cloudinary.com/dqqw3fvn2/image/upload/v1664892503/picasion.com_721fbcad42a31aa819febcd9ee68a194_r51d67.gif"/></h1>
 
-<img src="https://res.cloudinary.com/dqqw3fvn2/image/upload/v1664892503/picasion.com_721fbcad42a31aa819febcd9ee68a194_r51d67.gif"/>
+<div>	
 
-<div> 
+
+- ✨ Eu sou uma <strong>desenvolvedora Front-End</strong>.
+- 🎯 Soft-skills: <strong>Sou proativa, comunicativa, curiosa e eu amo aprender</strong>.
+- 🌱 Atualmente estou estudando desenvolvimento web back-end na <strong>Kenzie Academy Brasil</strong>.
+- 💞️ Estou procurando oportunidades na area de desenvolvimento web front-end.
+- 📫 <strong>Entre em contato comigo: </strong> ⬇️
+
   <a href="https://www.linkedin.com/in/la%C3%ADs-borges-da-silva-1353a8197/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
- 
+	
+
 </div>
  
 <div align="center">
