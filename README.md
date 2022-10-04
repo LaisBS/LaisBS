@@ -45,7 +45,7 @@
 
 
  <div align="center">
-  <h2> ⚙️Analise do perfil </h2>
+  <h2> ⚙️Análise do perfil </h2>
 
   <a href="https://github.com/LaisBS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisBS&theme=radical&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
