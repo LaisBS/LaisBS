@@ -35,7 +35,7 @@
   <h2> ⚙️Analytics </h2>
 
   <a href="https://github.com/LaisBS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisBS&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisBS&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisBS&theme=radical&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisBS&theme=radical&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
   </a>
 </div>
