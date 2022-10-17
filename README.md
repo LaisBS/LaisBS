@@ -3,10 +3,10 @@
 <div>	
 
 
-- ✨ Eu sou uma <strong>desenvolvedora Front-End</strong>.
+- ✨ Eu sou uma <strong>desenvolvedora Full-stack</strong>.
 - 🎯 Soft-skills: <strong>Sou proativa, comunicativa, curiosa e eu amo aprender</strong>.
 - 🌱 Atualmente estou estudando desenvolvimento web back-end na <strong>Kenzie Academy Brasil</strong>.
-- 💞️ Estou procurando oportunidades na area de desenvolvimento web front-end.
+- 💞️ Estou procurando oportunidades na area de desenvolvimento web full-stack.
 - 📫 <strong>Entre em contato comigo: </strong> ⬇️
 
   <a href="https://www.linkedin.com/in/la%C3%ADs-borges-da-silva-1353a8197/" target="_blank">
