@@ -5,7 +5,6 @@
 
 - ✨ Eu sou uma <strong>desenvolvedora Full-stack</strong>.
 - 🎯 Soft-skills: <strong>Sou proativa, comunicativa, curiosa e eu amo aprender</strong>.
-- 🌱 Atualmente estou estudando desenvolvimento web back-end na <strong>Kenzie Academy Brasil</strong>.
 - 💞️ Estou trabalhando na area de desenvolvimento web full-stack.
 - 📫 <strong>Entre em contato comigo: </strong> ⬇️
 
