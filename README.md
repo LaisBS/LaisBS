@@ -68,12 +68,10 @@
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LaisBS&theme=radical&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
   </a>
   
-  ![Snake animation](https://github.com/LaisBS/LaisBS/blob/output/github-contribution-grid-snake.svg)
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaisBS/LaisBS/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaisBS/LaisBS/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LaisBS/LaisBS/blob/output/github-contribution-grid-snake.svg">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaisBS/LaisBS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaisBS/LaisBS/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LaisBS/LaisBS/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
