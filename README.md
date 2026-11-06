@@ -1,6 +1,6 @@
 # Olá, mundo! Eu sou a Laís Borges da Silva 👋
 
-- ✨ Desenvolvedora **Full-stack Junior** na [Solomon Digital Business](https://github.com/solomondigitalbusiness), atuando desde 2022 com TypeScript, React, NestJS e Python.
+- ✨ Desenvolvedora **Full-stack Junior** na [Solomon Digital Business](https://github.com/solomondigitalbusiness), atuando desde 2023 com TypeScript, React, Next.js, NestJS e Python.
 - 🎯 **Soft skills:** proativa, comunicativa, curiosa e sempre disposta a aprender algo novo.
 - 🤖 Explorando também **AI Engineering**: integração com LLMs, criação de servidores/clientes MCP e automação de código com ferramentas agentic (Claude Code, GitHub Copilot).
 - 🌱 Em constante evolução: sempre estudando novas tecnologias e boas práticas.
@@ -21,6 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -28,11 +29,13 @@
 **Back-end**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/-adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 **Banco de dados & Cloud**
 
@@ -66,11 +69,11 @@ Scrum · Kanban
 
 ## 💼 Experiência atual
 
-**Junior Full-Stack Developer** · [Solomon Digital Business](https://github.com/solomondigitalbusiness) — *2022 até o momento*
+**Junior Full-Stack Developer** · [Solomon Digital Business](https://github.com/solomondigitalbusiness) — *2023 até o momento*
 
-Atuo no desenvolvimento de soluções escaláveis com TypeScript, React, NestJS e Python, com foco em código limpo e boas práticas. Também trabalho com integrações avançadas de IA (LLMs, servidores/clientes MCP) e uso ferramentas agentic no terminal para acelerar refatoração, diagnóstico de segurança e correção de bugs.
+Atuo no desenvolvimento de soluções escaláveis com TypeScript, React, Next.js, NestJS e Python, com foco em código limpo e boas práticas. Também trabalho com integrações avançadas de IA (LLMs, servidores/clientes MCP) e uso ferramentas agentic no terminal para acelerar refatoração, diagnóstico de segurança e correção de bugs.
 
-> Os projetos que desenvolvo na Solomon ficam em repositórios privados da empresa — mas você pode ter uma boa ideia do meu trabalho e stack através do meu [currículo](https://www.linkedin.com/in/laisbs) ou entrando em contato diretamente.
+> Os projetos que desenvolvo na Solomon ficam em repositórios privados da empresa — mas você pode ter uma boa ideia do meu trabalho e stack através do meu [LinkedIn](https://www.linkedin.com/in/laisbs) ou entrando em contato diretamente.
 
 ---
 
@@ -82,6 +85,7 @@ Projetos desenvolvidos durante minha formação, que mostram a base da minha jor
 |---|---|---|
 | [**Kenzie-Hub**](https://github.com/LaisBS/Kenzie-Hub) | Plataforma onde o usuário se cadastra e registra as tecnologias que aprendeu e está aprendendo, além dos seus trabalhos. | JavaScript, React |
 | [**Kenzie-Burger**](https://github.com/LaisBS/Kenzie-Burger) | E-commerce funcional (com versão mobile) simulando uma hamburgueria, consumindo API. | JavaScript, React |
+| [**Ki-Vagas**](https://github.com/HuuRR/m4-ki-vagas) | Projeto desenvolvido em equipe durante a formação na Kenzie. | TypeScript |
 | [**Healthy-Body**](https://github.com/LaisBS/Healthy-Body) 🗄️ *(arquivado)* | Projeto backend desenvolvido em equipe com Python, Django e PostgreSQL. Deploy original (Heroku) foi descontinuado. | Python, Django, PostgreSQL |
 | [**NU-Kenzie**](https://github.com/LaisBS/NU-Kenzie) | Aplicação para gerenciamento de gastos, com cadastro de entradas e saídas. | JavaScript |
 
@@ -92,4 +96,3 @@ Projetos desenvolvidos durante minha formação, que mostram a base da minha jor
 ![github contribution grid snake animation](https://raw.githubusercontent.com/LaisBS/LaisBS/output/github-contribution-grid-snake.svg)
 
 ![Laís's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaisBS&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaisBS&layout=compact)
