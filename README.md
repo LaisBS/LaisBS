@@ -42,7 +42,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-074050?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 **AI Engineering & Agentic Tools**
