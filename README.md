@@ -1,6 +1,6 @@
 # Olá, mundo! Eu sou a Laís Borges da Silva 👋
 
-- ✨ Desenvolvedora **Full Stack** com TypeScript, React, Next.js, Node.js/NestJS e PostgreSQL, com experiência na [Solomon Digital Business](https://github.com/solomondigitalbusiness) (2023–2026).
+- ✨ Desenvolvedora **Full Stack** com TypeScript, React, Next.js, Node.js/NestJS e PostgreSQL, com experiência na [Solomon Digital Business](https://github.com/solomondigitalbusiness) (2022–2026).
 - 🎯 **Soft skills:** proativa, comunicativa, curiosa e sempre disposta a aprender algo novo.
 - 🤖 Explorando também **AI Engineering**: integração com LLMs, criação de servidores/clientes MCP e automação de código com ferramentas agentic (Claude Code, GitHub Copilot).
 - 🌱 Em constante evolução: sempre estudando novas tecnologias e boas práticas.
@@ -68,7 +68,7 @@ Scrum · Kanban
 
 ## 💼 Experiência
 
-**Full-Stack Developer (Júnior)** · [Solomon Digital Business](https://github.com/solomondigitalbusiness) — *2023 – 2026*
+**Full-Stack Developer (Júnior)** · [Solomon Digital Business](https://github.com/solomondigitalbusiness) — *2022 – 2026*
 
 Atuei no desenvolvimento de soluções escaláveis com TypeScript, React, Next.js, NestJS e PostgreSQL, com foco em código limpo e boas práticas. Também trabalhei com integrações avançadas de IA (LLMs, servidores/clientes MCP) e usei ferramentas agentic no terminal para acelerar refatoração, diagnóstico de segurança e correção de bugs.
 
