@@ -1,6 +1,6 @@
 # Olá, mundo! Eu sou a Laís Borges da Silva 👋
 
-- ✨ Desenvolvedora **Full-stack Junior** na [Solomon Digital Business](https://github.com/solomondigitalbusiness), atuando desde 2023 com TypeScript, React, Next.js, NestJS e Python.
+- ✨ Desenvolvedora **Full Stack** com TypeScript, React, Next.js, Node.js/NestJS e PostgreSQL, com experiência na [Solomon Digital Business](https://github.com/solomondigitalbusiness) (2023–2026).
 - 🎯 **Soft skills:** proativa, comunicativa, curiosa e sempre disposta a aprender algo novo.
 - 🤖 Explorando também **AI Engineering**: integração com LLMs, criação de servidores/clientes MCP e automação de código com ferramentas agentic (Claude Code, GitHub Copilot).
 - 🌱 Em constante evolução: sempre estudando novas tecnologias e boas práticas.
@@ -66,13 +66,13 @@ Scrum · Kanban
 
 ---
 
-## 💼 Experiência atual
+## 💼 Experiência
 
-**Junior Full-Stack Developer** · [Solomon Digital Business](https://github.com/solomondigitalbusiness) — *2023 até o momento*
+**Full-Stack Developer (Júnior)** · [Solomon Digital Business](https://github.com/solomondigitalbusiness) — *2023 – 2026*
 
-Atuo no desenvolvimento de soluções escaláveis com TypeScript, React, Next.js, NestJS e Python, com foco em código limpo e boas práticas. Também trabalho com integrações avançadas de IA (LLMs, servidores/clientes MCP) e uso ferramentas agentic no terminal para acelerar refatoração, diagnóstico de segurança e correção de bugs.
+Atuei no desenvolvimento de soluções escaláveis com TypeScript, React, Next.js, NestJS e PostgreSQL, com foco em código limpo e boas práticas. Também trabalhei com integrações avançadas de IA (LLMs, servidores/clientes MCP) e usei ferramentas agentic no terminal para acelerar refatoração, diagnóstico de segurança e correção de bugs.
 
-> Os projetos que desenvolvo na Solomon ficam em repositórios privados da empresa — mas você pode ter uma boa ideia do meu trabalho e stack através do meu [LinkedIn](https://www.linkedin.com/in/laisbs) ou entrando em contato diretamente.
+> Os projetos que desenvolvi na Solomon ficam em repositórios privados da empresa — mas você pode ter uma boa ideia do meu trabalho e stack através do meu [LinkedIn](https://www.linkedin.com/in/laisbs) ou entrando em contato diretamente.
 
 ---
 
